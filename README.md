@@ -8,10 +8,9 @@ THE uDWM patch folder labeled 21H2 will NOT work on 21H2. It should be for 22H2!
 
 This is made on the default aero.msstyles in Windows 11. This was made and tested on Windows 11 23H2 and 24H2.
 >[!TIP]
->When using OpenGlass, if OpenGlass is started before the Windhawk mod the accent color will show. However, if OpenGlass starts (or restarts) after the Windhawk mod is active, the color will not show on borders.
->If you are not using OpenGlass or DWMBlurGlass, disable the Mica or Acrylic effects in MicaForEveryone, and set your accent color to show on title bars and borders in Settings.
-
-If you want the borders, you should go into Windhawk's advanced settings and add dwm.exe to the include list.
+>OpenGlass is no longer supported on new versions of 24H2. Microsoft has done some janky stuff, and DWM changes are being added with every update. I don't know what this means for DWMBlurGlass or the future of the theme.
+>You can still use OpenGlass on 24H2, but be aware that there are high probabilies of crashes (I myself experienced multiple yesterday) and its not officially supported.
+>To be clear, this is in no way the fault of the creator(s) of OpenGlass. This is Microsoft being Microsoft and changing things for the sake of change.
 
 >[!WARNING]
 >I recommend using light app mode and dark Windows mode. This does *NOT* have support for dark app mode. The Windows mode does not matter, but most taskbar mods work better on dark base than light base.
