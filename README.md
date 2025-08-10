@@ -3,7 +3,8 @@ Aero 7 theme for Windows 11 23H2+!
 
 Currently supports 22H2 through 23H2. it is untested in 25H2.
 
->[!WARNING]24H2 has proven to have issues. If you have updated it in the last couple months, there is a chance that any DWM modifications could break your system. Please proceed with caution on 24H2 and 25H2. I will be working to add more documentation for the case of an issue over the next few days. In the meantime I recommend making multiple backups of any changed files, especially if it is related to DWM in any way.
+>[!WARNING]
+>24H2 has proven to have issues. If you have updated it in the last couple months, there is a chance that any DWM modifications could break your system. Please proceed with caution on 24H2 and 25H2. I will be working to add more documentation for the case of an issue over the next few days. In the meantime I recommend making multiple backups of any changed files, especially if it is related to DWM in any way.
 
 >Note that this is used at your own risk. I cannot guaruntee compatibility with newer updates immediately.
 
