@@ -2,6 +2,11 @@
 Aero 7 theme for Windows 11 23H2+!
 
 Currently supports 22H2 through 24H2. it is untested in 25H2.
+
+Note that this is used at your own risk. I cannot guaruntee compatibility with newer updates immediately.
+
+If you modify any system files please keep a backup of all instructions in a place you could access if your system gets bricked so that you can undo any changes.
+
 ## Notes
 
 THE uDWM patch folder labeled 21H2 will NOT work on 21H2. It should be for 22H2!
