@@ -10,20 +10,13 @@ That depends your preferences:
 Note that the Windows 7 alt tab menu is now available with aero7-11 round. The Vista theme is also available.
 
 ==========BORDERS==========
-You have two options for borders:
-1: Windhawk Mod
- - This is easier/safer to apply as you are not manually editing system files
- - However, it is a lower quality mod
+ - This is required for DWMBlurGlass and MicaForEveryone only
  - Instructions are in "Border" folder under "WindhawkHowTo.txt"
-2: uDWM Patch
- - This is harder to apply as you must manually apply the file
- - When applied, it is higher quality, and less likely to bug out
- - Instructions are in "Border\uDWM Patch" folder
 
 ==========GLASS==========
 
 This has the most options: DWMBlurGlass, OpenGlass, and MicaForEveryone.
 
-DWMBlurGlass is the most compatible with Windows 11, having Windows 7 caption sizes and glow built in.
-OpenGlass is more stable but lacks these features.
+DWMBlurGlass is the most compatible with Windows 11.
+OpenGlass is faster and has more features, but can be broken by newer revisions of Windows 11.
 MicaForEveryone does not provide accurate Aero effects, use it only as a last resort.

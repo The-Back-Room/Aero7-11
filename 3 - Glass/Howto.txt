@@ -8,7 +8,8 @@ Does *not* work with the uDWM patch on 23H2, use the Windhawk mod instead.
 
 OpenGlass:
 	1: Optionally Run the AeroDWM.reg file to import its contents into the registry.
-	2: Install OpenGlass and start it up.
+	2: If you are on Windows version 26100.4484 or later, follow the instructions in dwmcore-patch.txt.
+	3: Install OpenGlass and start it up.
 
 	If you did not import the registry file:
 		3: Go to Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\DWM in regedit
