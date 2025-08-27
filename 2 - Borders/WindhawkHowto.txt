@@ -4,3 +4,7 @@ You will need Windhawk to apply
 1. In Windhawk, search for the "Bring Back The Borders!" mod.
 2. Download and enable it.
 3. The borders and shadows should work.
+
+Alternatively you can use the mod fork that is included. There have been various reports about it, and it may or may not work. However, someone requested it back. and for people who do still want it, its here.
+
+This is my final decision and I won't remove the mod again unless something that 100% works on newer updates can be found. This way there is always at least one backup option.
