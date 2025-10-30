@@ -35,10 +35,10 @@ Here are some optional extra themes you can use with this theme. They are not re
 
 #### Available Themes
 
-- **MCT Themes**: These themes are based on the Microsoft Collection Themes that were available in Windows 7. They include themes like "Landscapes", "Characters", "Nature", and more.
-- **Regional Themes**: These themes are based on the regional themes that were available in Windows 7. They include themes like "Canada", "Germany", "Japan", and more.
-- **Panoramic Themes**: These themes are designed for panoramic displays and include themes like "Panoramic Beaches", "Panoramic Animals", and more.
-- **Vista Themes**: These themes are based on the original Windows Vista themes, including "Vista", "Vista Longhorn", and more.
+- **MCT Themes**: These themes are based on the Microsoft Collection Themes that were available in Windows 7.
+- **Regional Themes**: These themes are based on the regional themes that were available in Windows 7.
+- **Panoramic Themes**: These themes are designed for panoramic displays.
+- **Vista Themes**: These themes are edited versions of the aeroVista-11 theme.
 
 </details>
 
