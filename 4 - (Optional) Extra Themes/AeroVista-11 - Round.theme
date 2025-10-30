@@ -1,0 +1,110 @@
+; Copyright � Microsoft Corp.
+
+[Theme]
+; Windows - IDS_THEME_DISPLAYNAME_AEROVISTA-11
+DisplayName=AeroVista-11 (Round)
+BrandImage=%SYSTEMROOT%\Resources\Themes\aeroVista-11\logo.webp
+
+; Computer - SHIDI_SERVER
+[CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\DefaultIcon]
+DefaultValue=%SYSTEMROOT%\System32\imageres.dll,-109
+
+; UsersFiles - SHIDI_USERFILES
+[CLSID\{59031A47-3F72-44A7-89C5-5595FE6B30EE}\DefaultIcon]
+DefaultValue=%SYSTEMROOT%\System32\imageres.dll,-123
+
+; Network - SHIDI_MYNETWORK
+[CLSID\{F02C1A0D-BE21-4350-88B0-7367FC96EF3C}\DefaultIcon]
+DefaultValue=%SYSTEMROOT%\System32\imageres.dll,-25
+
+; Recycle Bin - SHIDI_RECYCLERFULL SHIDI_RECYCLER
+[CLSID\{645FF040-5081-101B-9F08-00AA002F954E}\DefaultIcon]
+Full=%SYSTEMROOT%\System32\imageres.dll,-54
+Empty=%SYSTEMROOT%\System32\imageres.dll,-55
+
+[Control Panel\Cursors]
+AppStarting=%SYSTEMROOT%\Resources\Themes\aeroVista-11\cursors\working.ani
+Arrow=%SYSTEMROOT%\Resources\Themes\aeroVista-11\cursors\arrow.cur
+Crosshair=SystemRoot%\cursors\aeroVista-11\prec.cur
+Hand=%SYSTEMROOT%\Resources\Themes\aeroVista-11\cursors\link.cur
+Help=%SYSTEMROOT%\Resources\Themes\aeroVista-11\cursors\helpsel.cur
+IBeam=SystemRoot%\cursors\aeroVista-11\select.cur
+No=%SYSTEMROOT%\Resources\Themes\aeroVista-11\cursors\unavail.cur
+NWPen=%SYSTEMROOT%\Resources\Themes\aeroVista-11\cursors\pen.cur
+SizeAll=%SYSTEMROOT%\Resources\Themes\aeroVista-11\cursors\move.cur
+SizeNESW=%SYSTEMROOT%\Resources\Themes\aeroVista-11\cursors\nesw.cur
+SizeNS=%SYSTEMROOT%\Resources\Themes\aeroVista-11\cursors\ns.cur
+SizeNWSE=%SYSTEMROOT%\Resources\Themes\aeroVista-11\cursors\nwse.cur
+SizeWE=%SYSTEMROOT%\Resources\Themes\aeroVista-11\cursors\ew.cur
+UpArrow=%SYSTEMROOT%\Resources\Themes\aeroVista-11\cursors\up.cur
+Wait=%SYSTEMROOT%\Resources\Themes\aeroVista-11\cursors\busy.ani
+Person=%SYSTEMROOT%\Resources\Themes\aeroVista-11\cursors\arrow.cur
+Pin=%SYSTEMROOT%\Resources\Themes\aeroVista-11\cursors\arrow.cur
+DefaultValue=Windows Aero
+
+[Control Panel\Desktop]
+Wallpaper=%SYSTEMROOT%\Resources\Themes\aeroVista-11\Wallpapers\vista.jpg
+TileWallpaper=0
+WallpaperStyle=10
+Pattern=
+MultimonBackgrounds=0
+PicturePosition=4
+WindowsSpotlight=0
+
+[VisualStyles]
+Path=%SYSTEMROOT%\Resources\Themes\aeroVista-11\aeroVista-11 round.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+AutoColorization=0
+ColorizationColor=0XC40078D4
+SystemMode=Dark
+AppMode=Light
+VisualStyleVersion=10
+
+[boot]
+SCRNSAVE.EXE=
+
+[MasterThemeSelector]
+MTSM=RJSPBS
+
+[Sounds]
+; IDS_SCHEME_DEFAULT
+SchemeName=Windows (Classic)
+[AppEvents\Schemes\Apps\.Default\.Default]
+DefaultValue=%SYSTEMROOT%\Resources\Themes\aeroVista-11\sounds\ding.wav
+[AppEvents\Schemes\Apps\.Default\ChangeTheme]
+DefaultValue=%SYSTEMROOT%\Resources\Themes\aeroVista-11\sounds\logon.wav
+[AppEvents\Schemes\Apps\.Default\CriticalBatteryAlarm]
+DefaultValue=%SYSTEMROOT%\Resources\Themes\aeroVista-11\sounds\battery critical.wav
+[AppEvents\Schemes\Apps\.Default\DeviceConnect]
+DefaultValue=%SYSTEMROOT%\Resources\Themes\aeroVista-11\sounds\hardware insert.wav
+[AppEvents\Schemes\Apps\.Default\DeviceDisconnect]
+DefaultValue=%SYSTEMROOT%\Resources\Themes\aeroVista-11\sounds\hardware remove.wav
+[AppEvents\Schemes\Apps\.Default\DeviceFail]
+DefaultValue=%SYSTEMROOT%\Resources\Themes\aeroVista-11\sounds\hardware fail.wav
+[AppEvents\Schemes\Apps\.Default\FaxBeep]
+DefaultValue=%SYSTEMROOT%\Resources\Themes\aeroVista-11\sounds\notify.wav
+[AppEvents\Schemes\Apps\.Default\LowBatteryAlarm]
+DefaultValue=%SYSTEMROOT%\Resources\Themes\aeroVista-11\sounds\battery low.wav
+[AppEvents\Schemes\Apps\.Default\MailBeep]
+DefaultValue=%SYSTEMROOT%\Resources\Themes\aeroVista-11\sounds\notify.wav
+[AppEvents\Schemes\Apps\.Default\PrintComplete]
+DefaultValue=%SYSTEMROOT%\Resources\Themes\aeroVista-11\sounds\print complete.wav
+[AppEvents\Schemes\Apps\.Default\SystemAsterisk]
+DefaultValue=%SYSTEMROOT%\Resources\Themes\aeroVista-11\sounds\error.wav
+[AppEvents\Schemes\Apps\.Default\SystemExclamation]
+DefaultValue=%SYSTEMROOT%\Resources\Themes\aeroVista-11\sounds\exclamation.wav
+[AppEvents\Schemes\Apps\.Default\SystemHand]
+DefaultValue=%SYSTEMROOT%\Resources\Themes\aeroVista-11\sounds\critical stop.wav
+[AppEvents\Schemes\Apps\.Default\SystemNotification]
+DefaultValue=%SYSTEMROOT%\Resources\Themes\aeroVista-11\sounds\balloon.wav
+[AppEvents\Schemes\Apps\.Default\WindowsUAC]
+DefaultValue=%SYSTEMROOT%\Resources\Themes\aeroVista-11\sounds\uac.wav
+[AppEvents\Schemes\Apps\Explorer\BlockedPopup]
+DefaultValue=%SYSTEMROOT%\Resources\Themes\aeroVista-11\sounds\pop-up blocked.wav
+[AppEvents\Schemes\Apps\Explorer\FeedDiscovered]
+DefaultValue=%SYSTEMROOT%\Resources\Themes\aeroVista-11\sounds\feed discovered.wav
+[AppEvents\Schemes\Apps\Explorer\Navigating]
+DefaultValue=%SYSTEMROOT%\Resources\Themes\aeroVista-11\sounds\navigation start.wav
+[AppEvents\Schemes\Apps\Explorer\SecurityBand]
+DefaultValue=%SYSTEMROOT%\Resources\Themes\aeroVista-11\sounds\information bar.wav

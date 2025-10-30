@@ -7,8 +7,6 @@ Currently supports 22H2 through 23H2. It is untested in 25H2, and DWM mods may b
 
 The uDWM patch folder labeled 21H2 will NOT work on 21H2. It should be for 22H2!
 
-If you want some more themes based on this, check out [this link](https://gitlab.com/the-back-room/visual-styles/windows-11/aero7-11/-/tree/main/Themes?ref_type=heads).
-
 This is made on the default aero.msstyles in Windows 11. This was made and tested on Windows 11 23H2 and 24H2.
 
 ## Warnings
@@ -26,6 +24,18 @@ This is made on the default aero.msstyles in Windows 11. This was made and teste
 ![image](https://github.com/user-attachments/assets/48751eb9-c8cf-402e-965e-22f5951d2337)
 
 Here's the theme in action. As you can see, it's not 1:1, and unfortunately due to issues I won't be able to make it 1:1 with my current tool.
+
+<details>
+<summary>(Optional) Extra Themes</summary>
+
+![alt text](.github/assets/screenshots/extra-themes-1.png) 
+![alt text](.github/assets/screenshots/extra-themes-2.png) 
+
+Here are some optional extra themes you can use with this theme. They are not required, but they do add some extra flair to the theme.
+
+To use them, simply copy the contents of the `4 - (Optional) Extra Themes` folder into `%SYSTEMROOT%\Resources\Themes` and select them from the Personalization > Themes menu.
+
+</details>
 
 ## Credits
 
