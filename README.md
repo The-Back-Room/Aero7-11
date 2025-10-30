@@ -28,12 +28,10 @@ Here's the theme in action. As you can see, it's not 1:1, and unfortunately due 
 <details>
 <summary>(Optional) Extra Themes</summary>
 
-Here are some optional extra themes you can use with this theme. They are not required, but they do add some extra flair to the theme.
+Here are some optional extra themes you can use with this theme. They are not required, but they do add some extra flair to the theme. To use them, simply follow the instructions on how to install Aero7-11. Then, copy the contents of the `4 - (Optional) Extra Themes` folder into `%SYSTEMROOT%\Resources\Themes` and select them from the Personalization > Themes menu.
 
 ![Preview](.github/assets/screenshots/extra-themes-1.png) 
 ![Preview](.github/assets/screenshots/extra-themes-2.png)
-
-To use them, simply follow the instructions on how to install Aero7-11. Then, copy the contents of the `4 - (Optional) Extra Themes` folder into `%SYSTEMROOT%\Resources\Themes` and select them from the Personalization > Themes menu.
 
 #### Available Themes
 
