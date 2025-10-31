@@ -2,7 +2,7 @@
 This folder contains additional themes and resources that you can explore to further customize your Windows 11 experience with the Aero7-11 theme.
 
 ### Themes
-The `Themes` folder includes a variety of additional themes inspired by Windows 7 and Windows Vista. You can copy these themes to `%SYSTEMROOT%\Resources\Themes` to use them alongside the Aero7-11 theme. The included themes are:
+The `Themes` folder includes a variety of additional themes inspired by Windows 7 and Windows Vista. To use them simply copy the contents of the `4 - (Optional) Extras/Themes` folder to `%SYSTEMROOT%\Resources\Themes` and apply them via the Personalization settings.
 
 ![Preview](./themes.png)
 
