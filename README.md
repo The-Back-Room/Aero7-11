@@ -6,11 +6,10 @@ Aero 7 theme for Windows 11 23H2+!
 
 </div>
 
-## Notes
-
-- Currently supports 22H2 through 23H2. It is untested in 25H2, and DWM mods may be a bit buggy in 24H2.
-- The uDWM patch folder labeled 21H2 will NOT work on 21H2. It should be for 22H2!
-- Made using the default `aero.msstyles` in Windows 11. This was made and tested on Windows 11 23H2 and 24H2.
+>[!NOTE]
+>- Currently supports 22H2 through 23H2. It is untested in 25H2, and DWM mods may be a bit buggy in 24H2.
+>- The uDWM patch folder labeled 21H2 will NOT work on 21H2. It should be for 22H2!
+>- Made using the default `aero.msstyles` in Windows 11. This was made and tested on Windows 11 23H2 and 24H2.
 
 ## Warnings
 
