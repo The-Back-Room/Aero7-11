@@ -6,7 +6,9 @@ Aero 7 theme for Windows 11 23H2+!
 </div>
 
 > [!NOTE]
-> Aero7-11 is made using the default `aero.msstyles` in Windows 11. This was made and tested on Windows 11 23H2 and 24H2. Aero7-11 supports 22H2 through 23H2. It is untested in 25H2, and DWM mods may be a bit buggy in 24H2.
+> Aero7-11 is made using the default `aero.msstyles` in Windows 11. This was made and tested on Windows 11 23H2 and 24H2.
+> 
+> Aero7-11 supports 22H2 through 23H2. It is untested in 25H2, and DWM mods may be a bit buggy in 24H2.
 
 ## Warnings
 
