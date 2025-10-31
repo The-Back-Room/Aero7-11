@@ -2,12 +2,12 @@
 This folder contains additional themes and resources that you can explore to further customize your Windows 11 experience with the Aero7-11 theme.
 
 ### Themes
-A variety of additional themes inspired by Windows 7 and Windows Vista. To use them simply copy the contents of the [Themes](Themes) folder to `%SYSTEMROOT%\Resources\Themes` and apply them via the Personalization settings.
+A variety of additional themes inspired by Windows 7 and Windows Vista. To use them simply copy the contents of the [Themes](./Themes) folder to `%SYSTEMROOT%\Resources\Themes` and apply them via the Personalization settings.
 
 ![Preview](./themes.png)
 
 ### Classic Personalization Menu
-To enhance your personalization experience, you can enable the Classic Personalization Menu. This can be done by using the registry files provided in the [Classic Personalization Menu](Classic%20Personalization%20Menu) folder. Simply run the appropriate `.reg` file to enable or disable the classic menu.
+To enhance your personalization experience, you can enable the Classic Personalization Menu. This can be done by using the registry files provided in the [Classic Personalization Menu](./Classic%20Personalization%20Menu) folder. Simply run the appropriate `.reg` file to enable or disable the classic menu.
 
 
 ### Additional Resources
