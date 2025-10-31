@@ -8,60 +8,60 @@ Windows Registry Editor Version 5.00
 "SubCommands"=""
 
 
-[HKEY_CLASSES_ROOT\DesktopBackground\Shell\Personalization\shell\001flyout]
+[HKEY_CLASSES_ROOT\DesktopBackground\Shell\Personalization\shell\001]
 "MUIVerb"="Theme Settings"
 "ControlPanelName"="Microsoft.Personalization"
 "Icon"="themecpl.dll"
 
-[HKEY_CLASSES_ROOT\DesktopBackground\Shell\Personalization\shell\001flyout\command]
+[HKEY_CLASSES_ROOT\DesktopBackground\Shell\Personalization\shell\001\command]
 @="explorer shell:::{ED834ED6-4B5A-4bfe-8F11-A626DCB6A921}"
 
 
-[HKEY_CLASSES_ROOT\DesktopBackground\Shell\Personalization\shell\002flyout]
+[HKEY_CLASSES_ROOT\DesktopBackground\Shell\Personalization\shell\002]
 "Icon"="imageres.dll,-110"
 "MUIVerb"="Desktop Background"
 "CommandFlags"=dword:00000020
 
-[HKEY_CLASSES_ROOT\DesktopBackground\Shell\Personalization\shell\002flyout\command]
+[HKEY_CLASSES_ROOT\DesktopBackground\Shell\Personalization\shell\002\command]
 @="explorer shell:::{ED834ED6-4B5A-4bfe-8F11-A626DCB6A921} -Microsoft.Personalization\\pageWallpaper"
 
 
-[HKEY_CLASSES_ROOT\DesktopBackground\Shell\Personalization\shell\003flyout]
+[HKEY_CLASSES_ROOT\DesktopBackground\Shell\Personalization\shell\003]
 "Icon"="themecpl.dll"
 "MUIVerb"="Color and Appearance"
 
-[HKEY_CLASSES_ROOT\DesktopBackground\Shell\Personalization\shell\003flyout\command]
+[HKEY_CLASSES_ROOT\DesktopBackground\Shell\Personalization\shell\003\command]
 @="explorer shell:::{ED834ED6-4B5A-4bfe-8F11-A626DCB6A921} -Microsoft.Personalization\\pageColorization"
 
 
-[HKEY_CLASSES_ROOT\DesktopBackground\Shell\Personalization\shell\004flyout]
+[HKEY_CLASSES_ROOT\DesktopBackground\Shell\Personalization\shell\004]
 "Icon"="SndVol.exe,-101"
 "MUIVerb"="Sounds"
 
-[HKEY_CLASSES_ROOT\DesktopBackground\Shell\Personalization\shell\004flyout\command]
+[HKEY_CLASSES_ROOT\DesktopBackground\Shell\Personalization\shell\004\command]
 @="rundll32.exe shell32.dll,Control_RunDLL mmsys.cpl,,2"
 
 
-[HKEY_CLASSES_ROOT\DesktopBackground\Shell\Personalization\shell\005flyout]
+[HKEY_CLASSES_ROOT\DesktopBackground\Shell\Personalization\shell\005]
 "Icon"="PhotoScreensaver.scr"
 "MUIVerb"="Screen Saver Settings"
 
-[HKEY_CLASSES_ROOT\DesktopBackground\Shell\Personalization\shell\005flyout\command]
+[HKEY_CLASSES_ROOT\DesktopBackground\Shell\Personalization\shell\005\command]
 @="rundll32.exe shell32.dll,Control_RunDLL desk.cpl,,1"
 
 
-[HKEY_CLASSES_ROOT\DesktopBackground\Shell\Personalization\shell\006flyout]
+[HKEY_CLASSES_ROOT\DesktopBackground\Shell\Personalization\shell\006]
 "Icon"="desk.cpl"
 "MUIVerb"="Desktop Icon Settings"
 "CommandFlags"=dword:00000020
 
-[HKEY_CLASSES_ROOT\DesktopBackground\Shell\Personalization\shell\006flyout\command]
+[HKEY_CLASSES_ROOT\DesktopBackground\Shell\Personalization\shell\006\command]
 @="rundll32.exe shell32.dll,Control_RunDLL desk.cpl,,0"
 
 
-[HKEY_CLASSES_ROOT\DesktopBackground\Shell\Personalization\shell\007flyout]
+[HKEY_CLASSES_ROOT\DesktopBackground\Shell\Personalization\shell\007]
 "Icon"="main.cpl"
 "MUIVerb"="Mouse Pointers"
 
-[HKEY_CLASSES_ROOT\DesktopBackground\Shell\Personalization\shell\007flyout\command]
+[HKEY_CLASSES_ROOT\DesktopBackground\Shell\Personalization\shell\007\command]
 @="rundll32.exe shell32.dll,Control_RunDLL main.cpl,,1"
