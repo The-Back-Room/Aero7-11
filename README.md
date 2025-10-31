@@ -31,8 +31,7 @@ Here's the theme in action. As you can see, it's not 1:1, and unfortunately due 
 This section assumes you have already patched your system to allow third party themes. If you have not, please refer to guides on how to do so. You will need to use a tool such as UltraUXThemePatcher or SecureUxTheme.
 
 - Download the repository as a ZIP file and extract it to a folder of your choice.
-- Open the `1 - Aero7-11 Theme` folder.
-- Copy the contents of the `Themes` folder to `%SYSTEMROOT%\Resources\Themes`.
+- Copy the contents of the `1 - Theme` folder to `%SYSTEMROOT%\Resources\Themes`.
 - Follow the instructions in the `2 - Borders` folder to set up the borders using Windhawk and the Bring Back the Borders! mod.
 - Follow the instructions in the `3 - Glass` folder to set up glass effects.
 - (Optional) Open the `4 - (Optional) Extras` folder to explore additional themes and resources.
