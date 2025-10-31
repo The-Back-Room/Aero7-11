@@ -32,7 +32,7 @@ This section assumes you have already patched your system to allow third party t
 
 - Download the repository as a ZIP file and extract it to a folder of your choice.
 - Copy the contents of the `1 - Theme` folder to `%SYSTEMROOT%\Resources\Themes`.
-- Follow the instructions in the `2 - Borders` folder to set up the borders using Windhawk and the Bring Back the Borders! mod.
+- Follow the instructions in the `2 - Borders` folder to set up the borders using Windhawk and the `Bring Back the Borders!` mod.
 - Follow the instructions in the `3 - Glass` folder to set up glass effects.
 - (Optional) Open the `4 - (Optional) Extras` folder to explore additional themes and resources.
 - Apply the theme by right-clicking on your desktop, selecting `Personalize`, then navigating to `Themes` and selecting the desired theme.
