@@ -48,7 +48,7 @@ Anyone can create a copy or redistribute this. However, the only stipulation is 
  - **Ittr**: Created the uDWM.dll patch included.
  - **SandTechStuff**: Updated instuctions for readability.
  - **TheDolphinSlayer**: Added the Windows 7 alt tab resources.
- - **The Back Room**: Added the Optional Extras.
+ - **The Back Room**: Added the Optional Extras and updated instructions for readability and ease of management
  - All Windows 7 Aero theme for Windows 10/11 developers: I took bits from various such themes.
 
 I cannot take credit for this theme, except in a few places. I just took the Windows 7 designs, merged them with the Windows 11 aero.msstyles, then put everything into one place to implement it. I do this with the hope that it will help Windows 11 user looking for a good Windows 7 theme for their system.
