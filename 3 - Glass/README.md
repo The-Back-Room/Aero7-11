@@ -29,13 +29,13 @@ To use this method you need to downgrade your `dwmcore.dll` file to a version pr
 2. Open command prompt as TrustedInstaller.
 	1. NSudo is included for this purpose.
 3. Switch to `%SYSTEMROOT%\System32`.
-4. *RENAME* `dwmcore.dll` to `dwmcore.old.dll`.
-	1. *DO NOT DELETE IT!* You will want a backup if something goes wrong!
+4. ***RENAME*** `dwmcore.dll` to `dwmcore.old.dll`.
+	1. ***DO NOT DELETE IT!*** You will want a backup if something goes wrong!
 5. Copy `dwmcore.dll` from the folder to System32.
 6. Run `taskkill /f /im dwm.exe` to restart DWM.
 
 ---
-**If something goes wrong**: *Something went wrong, there is a black screen, DWM is restarting on loop, etc!*
+**If something goes wrong**: Something went wrong, there is a black screen, DWM is restarting on loop, etc!
 
 1. You will need to go into recovery mode. To do this:
 	1. Press and hold the physical power button to shut it down.
