@@ -1,0 +1,121 @@
+; Copyright � Microsoft Corp.
+
+[Theme]
+; Windows - IDS_THEME_DISPLAYNAME_AERO7-11
+DisplayName=Waterscapes (Round) (Small-Title)
+BrandImage=%SYSTEMROOT%\Resources\Themes\aero7-11\logo.webp
+
+; Computer - SHIDI_SERVER
+[CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\DefaultIcon]
+DefaultValue=%SYSTEMROOT%\System32\imageres.dll,-109
+
+; UsersFiles - SHIDI_USERFILES
+[CLSID\{59031A47-3F72-44A7-89C5-5595FE6B30EE}\DefaultIcon]
+DefaultValue=%SYSTEMROOT%\System32\imageres.dll,-123
+
+; Network - SHIDI_MYNETWORK
+[CLSID\{F02C1A0D-BE21-4350-88B0-7367FC96EF3C}\DefaultIcon]
+DefaultValue=%SYSTEMROOT%\System32\imageres.dll,-25
+
+; Recycle Bin - SHIDI_RECYCLERFULL SHIDI_RECYCLER
+[CLSID\{645FF040-5081-101B-9F08-00AA002F954E}\DefaultIcon]
+Full=%SYSTEMROOT%\System32\imageres.dll,-54
+Empty=%SYSTEMROOT%\System32\imageres.dll,-55
+
+[Control Panel\Cursors]
+AppStarting=%SYSTEMROOT%\Resources\Themes\aero7-11\cursors\working.ani
+Arrow=%SYSTEMROOT%\Resources\Themes\aero7-11\cursors\arrow.cur
+Crosshair=%SYSTEMROOT%\Resources\Themes\aero7-11\cursors\prec.cur
+Hand=%SYSTEMROOT%\Resources\Themes\aero7-11\cursors\link.cur
+Help=%SYSTEMROOT%\Resources\Themes\aero7-11\cursors\helpsel.cur
+IBeam=%SYSTEMROOT%\Resources\Themes\aero7-11\cursors\select.cur
+No=%SYSTEMROOT%\Resources\Themes\aero7-11\cursors\unavail.cur
+NWPen=%SYSTEMROOT%\Resources\Themes\aero7-11\cursors\pen.cur
+SizeAll=%SYSTEMROOT%\Resources\Themes\aero7-11\cursors\move.cur
+SizeNESW=%SYSTEMROOT%\Resources\Themes\aero7-11\cursors\nesw.cur
+SizeNS=%SYSTEMROOT%\Resources\Themes\aero7-11\cursors\ns.cur
+SizeNWSE=%SYSTEMROOT%\Resources\Themes\aero7-11\cursors\nwse.cur
+SizeWE=%SYSTEMROOT%\Resources\Themes\aero7-11\cursors\ew.cur
+UpArrow=%SYSTEMROOT%\Resources\Themes\aero7-11\cursors\up.cur
+Wait=%SYSTEMROOT%\Resources\Themes\aero7-11\cursors\busy.ani
+Person=%SYSTEMROOT%\Resources\Themes\aero7-11\cursors\arrow.cur
+Pin=%SYSTEMROOT%\Resources\Themes\aero7-11\cursors\arrow.cur
+DefaultValue=Windows Aero
+
+[Control Panel\Desktop]
+Wallpaper=%SYSTEMROOT%\Resources\Themes\aero7-11\Wallpapers\Community Showcase\Waterscapes\1_marknelson_anotherplace_t.jpg
+TileWallpaper=0
+WallpaperStyle=10
+Pattern=
+
+[VisualStyles]
+Path=%SYSTEMROOT%\Resources\Themes\aero7-11\aero7-11 round small-title.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+ColorizationColor=0X942A72B5
+Transparency=1
+Composition=1
+VisualStyleVersion=10
+
+[boot]
+SCRNSAVE.EXE=%SYSTEMROOT%\system32\scrnsave.scr
+
+[MasterThemeSelector]
+MTSM=DABJDKT
+
+[Sounds]
+; IDS_SCHEME_DEFAULT
+SchemeName=Seashore
+[AppEvents\Schemes\Apps\.Default\.Default]
+DefaultValue=%SYSTEMROOT%\Resources\Themes\aero7-11\Sounds\Seashore\s_balloon_waterdrop2.wav
+[AppEvents\Schemes\Apps\.Default\ChangeTheme]
+DefaultValue=%SYSTEMROOT%\Resources\Themes\aero7-11\Sounds\Seashore\s_changetheme_lapping_water_seagulls.wav
+[AppEvents\Schemes\Apps\.Default\CriticalBatteryAlarm]
+DefaultValue=%SYSTEMROOT%\Resources\Themes\aero7-11\Sounds\Seashore\s_batterycritical_seagull11.wav
+[AppEvents\Schemes\Apps\.Default\DeviceConnect]
+DefaultValue=%SYSTEMROOT%\Resources\Themes\aero7-11\Sounds\Seashore\s_deviceinsert_canoe_paddle6.wav
+[AppEvents\Schemes\Apps\.Default\DeviceDisconnect]
+DefaultValue=%SYSTEMROOT%\Resources\Themes\aero7-11\Sounds\Seashore\s_deviceremove_canoe_paddle3.wav
+[AppEvents\Schemes\Apps\.Default\DeviceFail]
+DefaultValue=%SYSTEMROOT%\Resources\Themes\aero7-11\Sounds\Seashore\s_devicefail_splash1.wav
+[AppEvents\Schemes\Apps\.Default\FaxBeep]
+DefaultValue=%SYSTEMROOT%\Resources\Themes\aero7-11\Sounds\Seashore\s_notify_splash9.wav
+[AppEvents\Schemes\Apps\.Default\LowBatteryAlarm]
+DefaultValue=%SYSTEMROOT%\Resources\Themes\aero7-11\Sounds\Seashore\s_batterylow_seagull5.wav
+[AppEvents\Schemes\Apps\.Default\MailBeep]
+DefaultValue=%SYSTEMROOT%\Resources\Themes\aero7-11\Sounds\Seashore\s_notify_splash9.wav
+[AppEvents\Schemes\Apps\.Default\PrintComplete]
+DefaultValue=%SYSTEMROOT%\Resources\Themes\aero7-11\Sounds\Seashore\s_printcomplete_splash3.wav
+[AppEvents\Schemes\Apps\.Default\SystemAsterisk]
+DefaultValue=%SYSTEMROOT%\Resources\Themes\aero7-11\Sounds\Seashore\s_asterisk-error_seagull4.wav
+[AppEvents\Schemes\Apps\.Default\SystemExclamation]
+DefaultValue=%SYSTEMROOT%\Resources\Themes\aero7-11\Sounds\Seashore\s_exclamation_seagull1.wav
+[AppEvents\Schemes\Apps\.Default\SystemExit]
+DefaultValue=%SYSTEMROOT%\Resources\Themes\aero7-11\Sounds\Seashore\s_shutdown_coastal_ambience3.wav
+[AppEvents\Schemes\Apps\.Default\SystemHand]
+DefaultValue=%SYSTEMROOT%\Resources\Themes\aero7-11\Sounds\Seashore\s_criticalstop_foghorn6.wav
+[AppEvents\Schemes\Apps\.Default\SystemNotification]
+DefaultValue=%SYSTEMROOT%\Resources\Themes\aero7-11\Sounds\Seashore\s_balloon_waterdrop2.wav
+[AppEvents\Schemes\Apps\.Default\WindowsLogoff]
+DefaultValue=%SYSTEMROOT%\Resources\Themes\aero7-11\Sounds\Seashore\s_logoff_marina_ambience1.wav
+[AppEvents\Schemes\Apps\.Default\WindowsLogon]
+DefaultValue=%SYSTEMROOT%\Resources\Themes\aero7-11\Sounds\Seashore\s_logon_coastal_ambience1.wav
+[AppEvents\Schemes\Apps\.Default\WindowsUAC]
+DefaultValue=%SYSTEMROOT%\Resources\Themes\aero7-11\Sounds\Seashore\s_uac-pub_waterdrop4.wav
+[AppEvents\Schemes\Apps\Explorer\BlockedPopup]
+DefaultValue=%SYSTEMROOT%\Resources\Themes\aero7-11\Sounds\Seashore\s_uac-pub_waterdrop4.wav
+[AppEvents\Schemes\Apps\Explorer\EmptyRecycleBin]
+DefaultValue=%SYSTEMROOT%\Resources\Themes\aero7-11\Sounds\Seashore\s_recycle_splashdive4.wav
+[AppEvents\Schemes\Apps\Explorer\FaxError]
+DefaultValue=%SYSTEMROOT%\Resources\Themes\aero7-11\Sounds\Seashore\s_ding_seagull3.wav
+[AppEvents\Schemes\Apps\Explorer\FeedDiscovered]
+DefaultValue=%SYSTEMROOT%\Resources\Themes\aero7-11\Sounds\Seashore\s_discoverfeed_splashkerplunk1.wav
+[AppEvents\Schemes\Apps\Explorer\Navigating]
+DefaultValue=%SYSTEMROOT%\Resources\Themes\aero7-11\Sounds\Garden\Windows Navigation Start.wav
+[AppEvents\Schemes\Apps\Explorer\SecurityBand]
+DefaultValue=%SYSTEMROOT%\Resources\Themes\aero7-11\Sounds\Garden\Windows Information Bar.wav
+
+[Slideshow]
+Interval=1800000
+Shuffle=0
+ImagesRootPath=%SYSTEMROOT%\Resources\Themes\aero7-11\Wallpapers\Community Showcase\Waterscapes\

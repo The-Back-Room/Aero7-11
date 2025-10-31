@@ -43,7 +43,7 @@ Pin=%SYSTEMROOT%\Resources\Themes\aero7-11\cursors\arrow.cur
 DefaultValue=Windows Aero
 
 [Control Panel\Desktop]
-Wallpaper=%SYSTEMROOT%\Resources\Themes\aero7-11\wallpapers\rtm\Landscapes\img7.jpg
+Wallpaper=%SYSTEMROOT%\Resources\Themes\aero7-11\Wallpapers\rtm\Landscapes\img7.jpg
 TileWallpaper=0
 WallpaperStyle=10
 Pattern=
@@ -112,4 +112,4 @@ DefaultValue=%SYSTEMROOT%\Resources\Themes\aero7-11\sounds\information bar.wav
 [Slideshow]
 Interval=1800000
 Shuffle=1
-ImagesRootPath=%SYSTEMROOT%\Resources\Themes\aero7-11\wallpapers\rtm\landscapes
+ImagesRootPath=%SYSTEMROOT%\Resources\Themes\aero7-11\Wallpapers\rtm\landscapes

@@ -43,7 +43,7 @@ Pin=%SYSTEMROOT%\Resources\Themes\aeroVista-11\cursors\arrow.cur
 DefaultValue=Windows Aero
 
 [Control Panel\Desktop]
-Wallpaper=%SYSTEMROOT%\Resources\Themes\aeroVista-11\wallpapers\others\img23.jpg
+Wallpaper=%SYSTEMROOT%\Resources\Themes\aeroVista-11\Wallpapers\others\img23.jpg
 TileWallpaper=0
 WallpaperStyle=10
 Pattern=
@@ -112,4 +112,4 @@ DefaultValue=%SYSTEMROOT%\Resources\Themes\aeroVista-11\sounds\information bar.w
 [Slideshow]
 Interval=1800000
 Shuffle=1
-ImagesRootPath=%SYSTEMROOT%\Resources\Themes\aeroVista-11\wallpapers\others
+ImagesRootPath=%SYSTEMROOT%\Resources\Themes\aeroVista-11\Wallpapers\others

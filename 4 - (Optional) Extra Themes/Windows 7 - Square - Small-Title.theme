@@ -43,7 +43,7 @@ Pin=%SYSTEMROOT%\Resources\Themes\aero7-11\cursors\arrow.cur
 DefaultValue=Windows Aero
 
 [Control Panel\Desktop]
-Wallpaper=%SYSTEMROOT%\Resources\Themes\aero7-11\wallpapers\rtm\win7back.jpg
+Wallpaper=%SYSTEMROOT%\Resources\Themes\aero7-11\Wallpapers\rtm\win7back.jpg
 TileWallpaper=0
 WallpaperStyle=10
 Pattern=

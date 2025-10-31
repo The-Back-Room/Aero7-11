@@ -43,7 +43,7 @@ Pin=%SYSTEMROOT%\Resources\Themes\aeroVista-11\cursors\arrow.cur
 DefaultValue=Windows Aero
 
 [Control Panel\Desktop]
-Wallpaper=%SYSTEMROOT%\Resources\Themes\aeroVista-11\wallpapers\Longhorn and Windows Vista Beta\Demos\Forest of Redwood Trees.jpg
+Wallpaper=%SYSTEMROOT%\Resources\Themes\aeroVista-11\Wallpapers\Longhorn and Windows Vista Beta\Demos\Forest of Redwood Trees.jpg
 TileWallpaper=0
 WallpaperStyle=10
 Pattern=
@@ -112,4 +112,4 @@ DefaultValue=%SYSTEMROOT%\Resources\Themes\aeroVista-11\sounds\information bar.w
 [Slideshow]
 Interval=1800000
 Shuffle=1
-ImagesRootPath=%SYSTEMROOT%\Resources\Themes\aeroVista-11\wallpapers\Longhorn and Windows Vista Beta\Demos\
+ImagesRootPath=%SYSTEMROOT%\Resources\Themes\aeroVista-11\Wallpapers\Longhorn and Windows Vista Beta\Demos\
