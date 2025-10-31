@@ -1,4 +1,4 @@
-## (Optional) Extras Instructions
+## Optional Extras
 This folder contains additional themes and resources that you can explore to further customize your Windows 11 experience with the Aero7-11 theme.
 
 ### Themes
