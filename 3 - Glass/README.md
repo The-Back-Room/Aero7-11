@@ -41,16 +41,15 @@ To use this method you need to downgrade your `dwmcore.dll` file to a version pr
 	1. Press and hold the physical power button to shut it down.
 	2. Press the button to turn it on.
 	3. As soon as the boot logo appears, hold the button to power off again.
-	4. Repeat 2-3 times.
-	4. It will then try to go to automatic repair.
-2. Choose advanced options -> troubleshoot -> advanced options -> command prompt
+	4. Repeat 2-3 times. It will then try to go to automatic repair.
+2. Choose `advanced options -> troubleshoot -> advanced options -> command prompt`
 3. Run notepad
 4. Select File -> Open -> This PC
 5. Change `Text Documents (*.txt)` to `All Files (*.*)`
-6. Browse to the System32 folder (inside the Windows folder)
+6. Browse to the `%SYSTEMROOT%\System32` folder
 7. Rename `dwmcore.dll` to `dwmcore.bad.dll`.
 8. Rename `dwmcore.old.dll` to `dwmcore.dll`.
-9. Run wpeutil reboot
+9. Run `wpeutil reboot`
 
 
 ---
