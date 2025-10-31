@@ -35,10 +35,11 @@ Here are some optional extra themes you can use with this theme. They are not re
 
 #### Available Themes
 
-- **MCT Themes**: These themes are based on the Microsoft Collection Themes that were available in Windows 7.
-- **Regional Themes**: These themes are based on the regional themes that were available in Windows 7.
-- **Panoramic Themes**: These themes are designed for panoramic displays.
-- **Vista Themes**: These themes are edited versions of the aeroVista-11 theme.
+- Windows 7 MCT Themes
+- Windows 7 Regional Themes
+- Windows 7 Community Showcase Themes
+- Windows 7 Panoramic Themes
+- Windows Vista Themes
 
 </details>
 
