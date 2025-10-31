@@ -25,16 +25,16 @@ This is made on the default aero.msstyles in Windows 11. This was made and teste
 
 Here's the theme in action. As you can see, it's not 1:1, and unfortunately due to issues I won't be able to make it 1:1 with my current tool.
 
-<details>
-<summary>(Optional) Extras</summary>
+## Installation
+This section assumes you have already patched your system to allow third party themes. If you have not, please refer to guides on how to do so. You will need to use a tool such as UltraUXThemePatcher or SecureUxTheme.
 
-Here are some optional extra themes you can use with this theme. They are not required, but they do add some extra flair to the theme. To use them, simply follow the instructions on how to install Aero7-11. Then, copy the contents of the `4 - (Optional) Extras\Themes` folder into `%SYSTEMROOT%\Resources\Themes` and select them from the Personalization > Themes menu.
-
-![Preview](.github/assets/screenshots/extra-themes.png) 
-
-Note: Due to the large amount of themes included in the `4 - (Optional) Extras\Themes` folder, the Windows 11 settings app may not display all of them. To get around that you can enable the Classic Personalization Menu via the registry files in the `4 - (Optional) Extras\Classic Personalization Menu` folder.
-
-</details>
+1. Download the repository as a ZIP file and extract it to a folder of your choice.
+2. Open the `1 - Aero7-11 Theme` folder.
+3. Copy the contents of the `Themes` folder to `%SYSTEMROOT%\Resources\Themes`.
+4. Follow the instructions in the `2 - Borders` folder to set up the borders using Windhawk and the Bring Back the Borders! mod.
+5. Follow the instructions in the `3 - Glass` folder to set up glass effects.
+6. (Optional) Open the `4 - (Optional) Extras` folder to explore additional themes and resources.
+7. Apply the theme by right-clicking on your desktop, selecting `Personalize`, then navigating to `Themes` and selecting the desired theme.
 
 ## Credits
 
