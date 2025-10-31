@@ -1,19 +1,21 @@
+<div align="center">
+
 # Aero7-11
 Aero 7 theme for Windows 11 23H2+!
 
-Currently supports 22H2 through 23H2. It is untested in 25H2, and DWM mods may be a bit buggy in 24H2.
+
+</div>
 
 ## Notes
 
-The uDWM patch folder labeled 21H2 will NOT work on 21H2. It should be for 22H2!
-
-This is made on the default aero.msstyles in Windows 11. This was made and tested on Windows 11 23H2 and 24H2.
+- Currently supports 22H2 through 23H2. It is untested in 25H2, and DWM mods may be a bit buggy in 24H2.
+- The uDWM patch folder labeled 21H2 will NOT work on 21H2. It should be for 22H2!
+- Made using the default `aero.msstyles` in Windows 11. This was made and tested on Windows 11 23H2 and 24H2.
 
 ## Warnings
 
-* I recommend using light app mode and dark Windows mode. This does *NOT* have support for dark app mode. The Windows mode does not matter, but most taskbar mods work better on dark base than light base.
-
-* 24H2 has proven to have issues. If you have updated Windows in the last few months, there is a chance that any DWM modifications could break your system. Please proceed with caution and keep backups when applying mods on 24H2 and 25H2.
+- I recommend using light app mode and dark Windows mode. This does *NOT* have support for dark app mode. The Windows mode does not matter, but most taskbar mods work better on dark base than light base.
+- 24H2 has proven to have issues. If you have updated Windows in the last few months, there is a chance that any DWM modifications could break your system. Please proceed with caution and keep backups when applying mods on 24H2 and 25H2.
 
 >[!WARNING]
 >Please note that usage of this theme is at your own risk. I ***cannot*** guaruntee compatibility with updates, and cannot be held responsible for any damages. I work with the Visual Style and pointing to third party tools only. The only mod I have made is the Borders mod in this repository, which is made for 23H2.
