@@ -31,10 +31,10 @@ Here's the theme in action. As you can see, it's not 1:1, and unfortunately due 
 This section assumes you have already patched your system to allow third party themes. If you have not, please refer to guides on how to do so. You will need to use a tool such as UltraUXThemePatcher or SecureUxTheme.
 
 - Download the repository as a ZIP file and extract it to a folder of your choice.
-- Copy the contents of the [1 - Theme](https://github.com/The-Back-Room/Aero7-11/tree/main/1%20-%20Theme) folder to `%SYSTEMROOT%\Resources\Themes`.
-- Follow the instructions in the [2 - Borders](https://github.com/The-Back-Room/Aero7-11/tree/main/%20-%20Borders/) folder to set up the borders using Windhawk and the `Bring Back the Borders!` mod.
-- Follow the instructions in the [3 - Glass](https://github.com/The-Back-Room/Aero7-11/tree/main/3%20-%20Glass/) folder to set up glass effects.
-- (Optional) Open the [4 - (Optional) Extras]([./](https://github.com/The-Back-Room/Aero7-11/tree/main/)4%20-%20(Optional)%20Extras/) folder to explore additional themes and resources.
+- Copy the contents of the [1 - Theme](./1%20-%20Theme/) folder to `%SYSTEMROOT%\Resources\Themes`.
+- Follow the instructions in the [2 - Borders](./%20-%20Borders/) folder to set up the borders using Windhawk and the `Bring Back the Borders!` mod.
+- Follow the instructions in the [3 - Glass](./3%20-%20Glass/) folder to set up glass effects.
+- (Optional) Open the [4 - (Optional) Extras](./4%20-%20(Optional)%20Extras/) folder to explore additional themes and resources.
 - Apply the theme by right-clicking on your desktop, selecting `Personalize`, then navigating to `Themes` and selecting the desired theme.
 
 ## Credits
