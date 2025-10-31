@@ -9,10 +9,10 @@ Instructions on how to set up the borders in nthe Aero7-11 theme pack.
 ### Instructions
 Follow these steps to set up the borders:
 
-1. Open Windhawk.
-2. Go to the "Mods" tab.
-3. Find the "Bring Back the Borders!" mod in the list and click on it.
-4. Click the "Enable" button to activate the mod.
+- Open Windhawk.
+- Go to the "Mods" tab.
+- Find the "Bring Back the Borders!" mod in the list and click on it.
+- Click the "Enable" button to activate the mod.
 
 
 Alternatively you can use the mod fork that is included. There have been various reports about it, and it may or may not work. However, someone requested it back. and for people who do still want it, its here.
